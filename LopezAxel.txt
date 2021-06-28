@@ -1,0 +1,5 @@
+Lista de estados de archivos:
+1 Untracked: Es cuando un archivo externo al repositorio que no estaba en la última instantánea y no estaba en el staging area es agregado a ese repositorio.
+2 Unmodified: Es cuando un bajamos archivo del repositorio y lo dejamos tal como esta.
+3 Modified: Es cuando bajamos un archivo del repositorio y lo editamos, logrando así que sea distinto a la instantánea del repositorio y tengamos que hacer un "git add" y un "git commit" para actualizar.
+4 Staged: Es cuando un archivo está prearado para hacer un "git commit" y subirlo al repositorio.
