@@ -1,3 +1,4 @@
+López
 Lista de estados de archivos:
 1 Untracked: Es cuando un archivo externo al repositorio que no estaba en la última instantánea y no estaba en el staging area es agregado a ese repositorio.
 2 Unmodified: Es cuando un bajamos archivo del repositorio y lo dejamos tal como esta.
