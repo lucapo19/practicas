@@ -1,0 +1,5 @@
+Listar y explicar cada uno de los estados de archivos (son 4) que tenemos
+. untracked
+. unmodified
+. modified
+. staged
